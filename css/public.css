@@ -1,0 +1,21 @@
+body,ul,ol,h1,h2,h3,h4,h5,h6,p,input,select,textarea,dl,dd{margin: 0;padding: 0;}
+ul,ol{list-style: none;}
+input,select,textarea{background-color: transparent; border: none; outline: none;}
+textarea{resize: none;}
+img{border: none; vertical-align: top;}
+a{text-decoration: none;}
+texe{font-family: "宋体";}
+a{color:#6C6C6C;  font-size: 12px;}
+
+.clearfix:after,.clearfix:before{content: "";display: table;}
+.clearfix:after{clear: both;}
+.clearfix{*zoom:1;}
+
+
+<p class="denglu">
+					<a href="#" class="logins"><img src="images/login.png" alt=""> &nbsp;登录</a>
+					<a href="#">免费注册</a>
+					<a href="#">免费开店</a>
+				</p>
+
+
